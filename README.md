@@ -1,4 +1,7 @@
 # Ex_No_3_Supply Chain Transparency for Luxury Goods
+# Name : Ramya.P
+# Reg no : 212223240137
+
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
